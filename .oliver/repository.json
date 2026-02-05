@@ -2,7 +2,7 @@
   "version": "1.0",
   "projectId": "21d458b2-adf0-4719-986f-6b93d8a75085",
   "createdAt": "2026-02-05T21:27:40.328Z",
-  "updatedAt": "2026-02-05T21:32:41.777Z",
+  "updatedAt": "2026-02-05T22:04:21.045Z",
   "files": [
     {
       "id": "88781384-6bf5-4705-9066-3c768c4aaaff",
@@ -15,8 +15,20 @@
       "createdAt": "2026-02-05T21:32:41.550Z",
       "updatedAt": "2026-02-05T21:32:41.550Z",
       "tags": []
+    },
+    {
+      "id": "6c28a8ca-e955-42a5-bc52-1355bdcec618",
+      "name": "Screenshot 2026-01-29 at 10.38.20 AM_2026-02-05_140419.png",
+      "path": "repository/workflow-analysis/Screenshot 2026-01-29 at 10.38.20 AM_2026-02-05_140419.png",
+      "folder": "workflow-analysis",
+      "mimeType": "image/png",
+      "size": 363301,
+      "sha": "17e276754116ceb66f264220222236b9411c00b1",
+      "createdAt": "2026-02-05T22:04:20.821Z",
+      "updatedAt": "2026-02-05T22:04:20.821Z",
+      "tags": []
     }
   ],
   "externalLinks": [],
-  "storageUsed": 363301
+  "storageUsed": 726602
 }
