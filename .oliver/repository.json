@@ -2,7 +2,7 @@
   "version": "1.0",
   "projectId": "21d458b2-adf0-4719-986f-6b93d8a75085",
   "createdAt": "2026-02-05T21:27:40.328Z",
-  "updatedAt": "2026-02-05T22:04:21.045Z",
+  "updatedAt": "2026-02-05T22:06:55.502Z",
   "files": [
     {
       "id": "88781384-6bf5-4705-9066-3c768c4aaaff",
@@ -27,8 +27,20 @@
       "createdAt": "2026-02-05T22:04:20.821Z",
       "updatedAt": "2026-02-05T22:04:20.821Z",
       "tags": []
+    },
+    {
+      "id": "416366b9-dc5e-4653-9a59-514ee24ee6ef",
+      "name": "AI4Health Presentation (2).pdf",
+      "path": "repository/functional-prototype/AI4Health Presentation (2).pdf",
+      "folder": "functional-prototype",
+      "mimeType": "application/pdf",
+      "size": 3387810,
+      "sha": "86cf7f53a51f4839e0dc5feffb8f6946658086ef",
+      "createdAt": "2026-02-05T22:06:55.145Z",
+      "updatedAt": "2026-02-05T22:06:55.145Z",
+      "tags": []
     }
   ],
   "externalLinks": [],
-  "storageUsed": 726602
+  "storageUsed": 4114412
 }
