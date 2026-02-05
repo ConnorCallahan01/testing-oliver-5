@@ -2,8 +2,21 @@
   "version": "1.0",
   "projectId": "21d458b2-adf0-4719-986f-6b93d8a75085",
   "createdAt": "2026-02-05T21:27:40.328Z",
-  "updatedAt": "2026-02-05T21:27:40.328Z",
-  "files": [],
+  "updatedAt": "2026-02-05T21:32:41.777Z",
+  "files": [
+    {
+      "id": "88781384-6bf5-4705-9066-3c768c4aaaff",
+      "name": "Screenshot 2026-01-29 at 10.38.20 AM.png",
+      "path": "repository/workflow-analysis/Screenshot 2026-01-29 at 10.38.20 AM.png",
+      "folder": "workflow-analysis",
+      "mimeType": "image/png",
+      "size": 363301,
+      "sha": "7bcf0f2d5bce45fb57eb70241b3a4aa2a0116e66",
+      "createdAt": "2026-02-05T21:32:41.550Z",
+      "updatedAt": "2026-02-05T21:32:41.550Z",
+      "tags": []
+    }
+  ],
   "externalLinks": [],
-  "storageUsed": 0
+  "storageUsed": 363301
 }
